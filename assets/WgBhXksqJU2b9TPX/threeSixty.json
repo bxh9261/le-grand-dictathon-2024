@@ -1,0 +1,57 @@
+{
+  "version": "3.84.31722.0",
+  "course_id": "6YmtETBV7he",
+  "title": "audio mots julien",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "60ojmy1lUZA",
+      "title": "Cliquez sur l’audio et écoutez le mot. Glissez ensuite le bouton vers la bonne orthographe. ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5qX2H3Gm3om",
+      "title": "Cliquez sur l’audio et écoutez le mot. Glissez ensuite le bouton vers la bonne orthographe du mot entendu. ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5ceLCwy2CFd",
+      "title": "Cliquez sur l’audio et écoutez le mot. Glissez ensuite le bouton vers la bonne orthographe du mot entendu. ",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5xt2uWo0x4l",
+      "title": "Cliquez sur l’audio et écoutez le mot. Glissez ensuite le bouton vers la bonne orthographe du mot entendu. ",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5sFgODIUoe7",
+      "title": "Cliquez sur l’audio et écoutez le mot. Glissez ensuite le bouton vers la bonne orthographe du mot entendu. ",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5eaLHnlQZUt",
+      "title": "Cliquez sur l’audio et écoutez le mot. Glissez ensuite le bouton vers la bonne orthographe du mot entendu. ",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "68PdjIjbQBE",
+      "title": "Cliquez sur l’audio et écoutez le mot. Glissez ensuite le bouton vers la bonne orthographe du mot entendu. ",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

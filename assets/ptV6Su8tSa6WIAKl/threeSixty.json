@@ -1,0 +1,37 @@
+{
+  "version": "3.84.31722.0",
+  "course_id": "5kjl7l5Q0Cu",
+  "title": "Bi Mc June",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6WvlTCLa3jK",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6bUO3bFhZlM",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5c4jnq4YIlm",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

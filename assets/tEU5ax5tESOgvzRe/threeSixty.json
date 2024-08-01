@@ -1,0 +1,47 @@
+{
+  "version": "3.84.31722.0",
+  "course_id": "6nFVecoAvWP",
+  "title": "interview",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6r2u9on5amO",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5r4Yi4gJAnZ",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6lo3R3t8EE0",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6Rl9FBQ8oEm",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "63BzzugkWn4",
+      "title": "Untitled Slide",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
